@@ -4,6 +4,7 @@ def roll_call_dwarves(array)
     end
 end
 
+roll_call_dwarves(["Doc", "Dopey", "Bashful", "Grumpy"])
 
 
 
